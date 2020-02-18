@@ -1,11 +1,10 @@
 # Euphoria 66
-A no-limits custom colony for [Oxygen Not Included](https://www.klei.com/games/oxygen-not-included)
 
-## About
+Euphoria 66 is my take on a no-limits, sustainable, fully automated, efficient, but still dupe pleasing colony in [Oxygen Not Included](https://www.klei.com/games/oxygen-not-included). I created it to make up for all the horrible (or hilarious) ways I killed the dupes in all my previous games.
 
 ![image](https://github.com/texhex/Euphoria66/raw/master/img/euphoria66.png)
 
-
+No-limits means I used debug mode to spawn geysers and Wheezeworts like there is no tomorrow. Also, most buildings are insta-build because I have no patience.
 
 ## Mods used
 
@@ -43,7 +42,7 @@ The following mods are also not required, but will make your life even more easi
 ## Installation
 
 * Install the mods listed above as required
-* Use the *Clone or download button* to download this [repository as ZIP](https://github.com/texhex/Euphoria66/archive/master.zip)
+* (((Use the *Clone or download button* to download this [repository as ZIP](https://github.com/texhex/Euphoria66/archive/master.zip))))
 * Open the local path ``C:\Users\[your username]\Documents\Klei\OxygenNotIncluded\save_files\`` e.g. ``C:\Users\John\Documents\Klei\OxygenNotIncluded\save_files\``
 * Copy the `*.SAV` file to this folder
 * Start the game and load the colony "Euphoria 66"

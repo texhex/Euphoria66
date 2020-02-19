@@ -99,7 +99,7 @@ Do you like sparkling soda? Who does not, so we installed 66 soda fountains.
 
 ![soda fountain](https://github.com/texhex/Euphoria66/raw/master/img/sodafountain.png)
 
-Feel more like dancing, or are you into games? We also have eight jukebot, and two arcades for you to enjoy. There are also eight beach chairs, but because of [technical](https://forums.kleientertainment.com/klei-bug-tracker/oni/beach-chair-preventing-sleep-r23276/) [issues](https://forums.kleientertainment.com/klei-bug-tracker/oni/dupes-dont-go-to-sleep-and-sit-in-beach-chair-all-night-instead-r22972/) we were forced to close them for now.
+Feel more like dancing, or are you into games? We also have eight jukebot, and two arcades for you to enjoy. Finally, eight beach chairs allow you to fully relax, but because of [technical](https://forums.kleientertainment.com/klei-bug-tracker/oni/beach-chair-preventing-sleep-r23276/) [issues](https://forums.kleientertainment.com/klei-bug-tracker/oni/dupes-dont-go-to-sleep-and-sit-in-beach-chair-all-night-instead-r22972/) we were forced to close them for now.
 
 ![beach chair](https://github.com/texhex/Euphoria66/raw/master/img/beachchair.png)
 
@@ -151,7 +151,7 @@ The following mods are also not required, but will make your life even more easi
 ## Installation
 
 * Install the mods listed above as required
-* Download the [ZIP](https://github.com/texhex/Euphoria66/blob/master/save_files.zip)
+* Download the [ZIP](https://github.com/texhex/Euphoria66/blob/master/save_files.zip?raw=true)
 * Open the local path ``C:\Users\[your username]\Documents\Klei\OxygenNotIncluded\save_files\`` e.g. ``C:\Users\John\Documents\Klei\OxygenNotIncluded\save_files\``
 * Copy the `*.SAV` file to this folder
 * Start the game and load the colony "Euphoria 66"

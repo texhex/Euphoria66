@@ -6,6 +6,9 @@ Euphoria 66 is my take on a no-limits, sustainable, fully automated, efficient, 
 
 No-limits means I used debug mode to spawn geysers and Wheezeworts like there is no tomorrow. Also, most buildings are insta-build because I have no patience.
 
+If you want to skip all description here, jump to section [installation](#installation)
+
+
 ## Mods used
 
 The following mods are required to run this colony:
@@ -42,12 +45,12 @@ The following mods are also not required, but will make your life even more easi
 ## Installation
 
 * Install the mods listed above as required
-* (((Use the *Clone or download button* to download this [repository as ZIP](https://github.com/texhex/Euphoria66/archive/master.zip))))
+* Download the [ZIP](https://github.com/texhex/Euphoria66/blob/master/save_files.zip)
 * Open the local path ``C:\Users\[your username]\Documents\Klei\OxygenNotIncluded\save_files\`` e.g. ``C:\Users\John\Documents\Klei\OxygenNotIncluded\save_files\``
 * Copy the `*.SAV` file to this folder
 * Start the game and load the colony "Euphoria 66"
 
-NOTE #1: Loading the save will take at about 12-13 minutes (no joke!). After that, ONI will show a black and white screen of the colony and require some more minutes to fully intialize
+NOTE #1: Loading the save will take at about 12-13 minutes where only the text LOADING.. is displayed. After that, ONI will show a black and white screen of the colony and require some more minutes to fully intialize
 
 NOTE #2: This save game will require about **20 GB of memory**. So better close all those tabs in Chrome before.
 

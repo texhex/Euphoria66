@@ -1,6 +1,6 @@
 # Euphoria 66
 
-Euphoria 66 is my take on a no-limits, sustainable, fully automated, efficient, but still dupe pleasing colony in [Oxygen Not Included](https://www.klei.com/games/oxygen-not-included). I created it to make up for all the horrible (or hilarious) ways I killed the dupes in all my previous games.
+Euphoria 66 is my take on a no-limits, sustainable, fully automated, efficient, but still dupe pleasing colony in [Oxygen Not Included](https://www.klei.com/games/oxygen-not-included). I created it to make up for all the horrible (or hilarious) ways I killed my dupes in all my previous games.
 
 ![Logo](https://github.com/texhex/Euphoria66/raw/master/img/euphoria66.png)
 

@@ -49,7 +49,7 @@ The following mods are also not required, but will make your life even more easi
 
 NOTE #1: Loading the save will take at about 12-13 minutes (no joke!). After that, ONI will show a black and white screen of the colony and require some more minutes to fully intialize
 
-NOTE #2: This save game will require **20-23 GB of memory**. So better close all those tabs in Chrome before.
+NOTE #2: This save game will require about **20 GB of memory**. So better close all those tabs in Chrome before.
 
 ## Contributions
 

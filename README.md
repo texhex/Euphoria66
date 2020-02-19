@@ -54,7 +54,7 @@ All our medication, from curative tablets up to serum vial are automatically and
 
 ## Germs
 
-We have a rigorous germ-bashing policy at Euphoria 66, starting with the bathrooms: every single one of our 38 bathrooms has as many sinks as there are lavatories - on every entry. Of course, there is one lavatory and one shower for each inhabitant, so no waiting line when you want to use it.
+We have a rigorous germ-bashing policy at Euphoria 66: every single one of our 38 bathrooms has as many sinks as there are lavatories - on every entry. Of course, there is one lavatory and one shower for each inhabitant, so no waiting line when you want to use it.
 
 The kitchen, food storeroom, and all main entrances are guarded by hand sanitizer. And any ore brought in needs to pass 12 ore scrubbers to make sure no germ makes into our colony.
 
@@ -86,9 +86,9 @@ After 33 seconds, you will be gently slammed on the ground to take care of any e
 
 ## Stress
 
-We all know it, stress is bad - so we have done everything to prevent it. All areas, even the hallways, are equipped with picture masterpieces and genius sculptures to make your stay a pleasure. 
+We all know it, stress is bad - so we have done everything to prevent it. All areas, even the hallways, are equipped with picture masterpieces and genius sculptures to make your stay a pleasure.
 
-But in case you need them, we also offer 24 massage tables. Just to be safe, not because you will need them - ever. 
+But in case you need them, we also offer 24 massage tables. Just to be safe, not because you will need them - ever.
 
 Our main debris storage area, near the core of the asteroid, is designed in a way that you can safely access any needed material from above, without the need to pass all those ugly debris piles.
 

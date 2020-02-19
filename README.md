@@ -54,14 +54,38 @@ We have a rigorous germ-bashing policy at Euphoria 66, starting with the bathroo
 
 The kitchen, food storeroom, and all main entrances are guarded by hand sanitizer. Any ore brought in needs to pass 12 ore scrubbers to make sure no germ makes into our colony.
 
-For outside activity, we have one atmo suit for each inhabitant ready to protect you from the harsh environment. Except you are Frankie and decide to pass the atmo suite checkpoint without one. Don't be like Frankie. 
+For outside activity, we have one atmo suit for each inhabitant ready to protect you from the harsh environment. Except you are Frankie and decide to pass the atmo suite checkpoint without one. Don't be like Frankie.
 
-![frankie](https://github.com/texhex/Euphoria66/raw/master/img/frankieatmp.png)
+![frankie](https://github.com/texhex/Euphoria66/raw/master/img/frankieatmo.png)
 
-All atmo suits are stored in chlorine, so even if you needed to work in a slime biome, the next cycle, your atmo suit will be ready germ-free. 
+All atmo suits are stored in chlorine, so even if you needed to work in a slime biome, the next cycle, your atmo suit will be ready germ-free.
 
 ![air lock](https://github.com/texhex/Euphoria66/raw/master/img/airlock2.png)
 
+## Power
+Our primary source for electrical power is our array of solar panels.
+
+![solar power](https://github.com/texhex/Euphoria66/raw/master/img/soloarpower.png)
+
+If the solar panels can't produce any power, we utilize natural gas generators, so there is always enough electricity available. For specific areas, we have localized power generation from hydrogen, lumber, coal, ethanol, and petroleum.
+
+## Dupe Dojo
+
+When there are no errands for you to do, you can use our 42 manual generators within our dupe dojo. Not only can you enjoy the gorgeous decor and have your tootsies tickled while using it, but it will also increase your athletics and machinery skills.
+
+![dupe dojo](https://github.com/texhex/Euphoria66/raw/master/img/dupedojo.png)
+
+After 33 seconds, you will be gently slammed on the ground to take care of any errands that might have become available in the meanwhile.
+
+## Stress
+
+We all know it, stress is bad - so we have done everything to prevent it. All areas, even the hallways, are equipped with picture masterpieces and genius sculptures to make your stay a pleasure. 
+
+Our main debris storage area, near the core of the asteroid, is designed in a way that you can safely access any needed material from above, without the need to pass all those ugly debris piles.
+
+![debris pile](https://github.com/texhex/Euphoria66/raw/master/img/debrispile.png)
+
+But in case you need them, we offer 24 massage tables. Just to be safe, not because you will need them - ever. 
 
 
 ---

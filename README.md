@@ -108,6 +108,8 @@ Feel more like dancing, or are you into games? We also have eight jukebot, and t
 
 Of course, we have private bedrooms, all equipped with comfy beds, so that you can start your next cycle fully rested.
 
+![sleeping](https://github.com/texhex/Euphoria66/raw/master/img/sleeping.png)
+
 ---
 
 ## Open topics

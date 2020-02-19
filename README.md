@@ -44,15 +44,17 @@ The meat for our barbeque comes from our broad range of staples (Hatches, Drecko
 
 Our health care system will make sure you are getting healthy again in no time. Twenty-two triage cots, twenty sick bays, and ten disease clinics with a team of twelve doctors trained in advanced medical care are ready to help you.
 
-All our medication, from curative tablets up to serum vial are automatically and in-house produced, as needed.
-
 ![health](https://github.com/texhex/Euphoria66/raw/master/img/health.png)
+
+All our medication, from curative tablets up to serum vial are automatically and in-house produced, as needed.
 
 ## Germs
 
 We have a rigorous germ-bashing policy at Euphoria 66, starting with the bathrooms: every single one of our 38 bathrooms has as many sinks as there are lavatories - on every entry. Of course, there is one lavatory and one shower for each inhabitant, so no waiting line when you want to use it.
 
 The kitchen, food storeroom, and all main entrances are guarded by hand sanitizer. Any ore brought in needs to pass 12 ore scrubbers to make sure no germ makes into our colony.
+
+![ore scrub](https://github.com/texhex/Euphoria66/raw/master/img/orescrub.png)
 
 For outside activity, we have one atmo suit for each inhabitant ready to protect you from the harsh environment. Except you are Frankie and decide to pass the atmo suite checkpoint without one. Don't be like Frankie.
 
@@ -65,7 +67,7 @@ All atmo suits are stored in chlorine, so even if you needed to work in a slime 
 ## Power
 Our primary source for electrical power is our array of solar panels.
 
-![solar power](https://github.com/texhex/Euphoria66/raw/master/img/soloarpower.png)
+![solar power](https://github.com/texhex/Euphoria66/raw/master/img/solarpower.png)
 
 If the solar panels can't produce any power, we utilize natural gas generators, so there is always enough electricity available. For specific areas, we have localized power generation from hydrogen, lumber, coal, ethanol, and petroleum.
 
@@ -81,11 +83,27 @@ After 33 seconds, you will be gently slammed on the ground to take care of any e
 
 We all know it, stress is bad - so we have done everything to prevent it. All areas, even the hallways, are equipped with picture masterpieces and genius sculptures to make your stay a pleasure. 
 
+But in case you need them, we also offer 24 massage tables. Just to be safe, not because you will need them - ever. 
+
 Our main debris storage area, near the core of the asteroid, is designed in a way that you can safely access any needed material from above, without the need to pass all those ugly debris piles.
 
 ![debris pile](https://github.com/texhex/Euphoria66/raw/master/img/debrispile.png)
 
-But in case you need them, we offer 24 massage tables. Just to be safe, not because you will need them - ever. 
+## Downtime
+
+Our five shift break policy, together with our vast transit tube network (within the base and outside), will ensure that you back at base in no time to enjoy your break.
+
+Do you like sparkling soda? Who does not, so we installed 66 soda fountains.
+
+![soda fountain](https://github.com/texhex/Euphoria66/raw/master/img/sodafountain.png)
+
+Feel more like dancing, or are you into games? We also have eight jukebot, and two arcades for you to enjoy.
+
+There are also eight beach chairs, but because of [technical](https://forums.kleientertainment.com/klei-bug-tracker/oni/beach-chair-preventing-sleep-r23276/) [issues](https://forums.kleientertainment.com/klei-bug-tracker/oni/dupes-dont-go-to-sleep-and-sit-in-beach-chair-all-night-instead-r22972/) we were forced to close them for now.
+
+![beach chair](https://github.com/texhex/Euphoria66/raw/master/img/beachchair.png)
+
+Of course, we have private bedrooms, all equipped with comfy beds, so that you can start your next cycle fully rested.
 
 
 ---

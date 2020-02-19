@@ -97,17 +97,21 @@ Do you like sparkling soda? Who does not, so we installed 66 soda fountains.
 
 ![soda fountain](https://github.com/texhex/Euphoria66/raw/master/img/sodafountain.png)
 
-Feel more like dancing, or are you into games? We also have eight jukebot, and two arcades for you to enjoy.
-
-There are also eight beach chairs, but because of [technical](https://forums.kleientertainment.com/klei-bug-tracker/oni/beach-chair-preventing-sleep-r23276/) [issues](https://forums.kleientertainment.com/klei-bug-tracker/oni/dupes-dont-go-to-sleep-and-sit-in-beach-chair-all-night-instead-r22972/) we were forced to close them for now.
+Feel more like dancing, or are you into games? We also have eight jukebot, and two arcades for you to enjoy. There are also eight beach chairs, but because of [technical](https://forums.kleientertainment.com/klei-bug-tracker/oni/beach-chair-preventing-sleep-r23276/) [issues](https://forums.kleientertainment.com/klei-bug-tracker/oni/dupes-dont-go-to-sleep-and-sit-in-beach-chair-all-night-instead-r22972/) we were forced to close them for now.
 
 ![beach chair](https://github.com/texhex/Euphoria66/raw/master/img/beachchair.png)
 
 Of course, we have private bedrooms, all equipped with comfy beds, so that you can start your next cycle fully rested.
 
-
 ---
 
+## Open topics
+
+* The colony has access to both domestic and wild Sleet Wheat and this needs to be balanced
+
+* The oil biom is way to hot and needs to be cooled. I'm still searching for the right solution for it
+
+* The oil currently processed is not reneable. Oil wells are build, but I have no idea if there is enough oil at the end
 
 ## Mods used
 

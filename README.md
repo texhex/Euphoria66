@@ -6,7 +6,7 @@ Euphoria 66 is my take on a no-limits, sustainable, fully automated, efficient, 
 
 No-limits means I used debug mode to spawn geysers and Wheezeworts like there is no tomorrow. Also, most buildings are insta-build because I have no patience.
 
-If you want to skip all description here, jump to section [installation](#installation).
+If you want to skip right to the save file, jump to section [installation](#installation).
 
 ---
 

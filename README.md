@@ -40,6 +40,30 @@ As all your friends are on the same schedule as you, you can have pleasant chitc
 
 The meat for our barbeque comes from our broad range of staples (Hatches, Dreckos, Slicksters, and Shove Voles), cared for by our 25 ranchers. The plants are all organic and germ-free, harvested by 26 farmers.
 
+## Healthcare
+
+Our health care system will make sure you are getting healthy again in no time. Twenty-two triage cots, twenty sick bays, and ten disease clinics with a team of twelve doctors trained in advanced medical care are ready to help you.
+
+All our medication, from curative tablets up to serum vial are automatically and in-house produced, as needed.
+
+![health](https://github.com/texhex/Euphoria66/raw/master/img/health.png)
+
+## Germs
+
+We have a rigorous germ-bashing policy at Euphoria 66, starting with the bathrooms: every single one of our 38 bathrooms has as many sinks as there are lavatories - on every entry. Of course, there is one lavatory and one shower for each inhabitant, so no waiting line when you want to use it.
+
+The kitchen, food storeroom, and all main entrances are guarded by hand sanitizer. Any ore brought in needs to pass 12 ore scrubbers to make sure no germ makes into our colony.
+
+For outside activity, we have one atmo suit for each inhabitant ready to protect you from the harsh environment. Except you are Frankie and decide to pass the atmo suite checkpoint without one. Don't be like Frankie. 
+
+![frankie](https://github.com/texhex/Euphoria66/raw/master/img/frankieatmp.png)
+
+All atmo suits are stored in chlorine, so even if you needed to work in a slime biome, the next cycle, your atmo suit will be ready germ-free. 
+
+![air lock](https://github.com/texhex/Euphoria66/raw/master/img/airlock2.png)
+
+
+
 ---
 
 

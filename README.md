@@ -14,6 +14,8 @@ If you want to skip all description here, jump to section [installation](#instal
 
 Are you 30 Kg of Genetic Ooze ready to be printed? How about you visit us at Euphoria; you will surely enjoy your stay on our 384x672 asteroid our 66 inhabitants call home! *
 
+![overview](https://github.com/texhex/Euphoria66/raw/master/img/overview.png)
+
 *Restrictions: Narcoleptic, destructive or vomiter do not need to apply.*
 
 ## Oxygen
@@ -109,7 +111,7 @@ Of course, we have private bedrooms, all equipped with comfy beds, so that you c
 
 * The colony has access to both domestic and wild Sleet Wheat and this needs to be balanced
 
-* The oil biom is way to hot and needs to be cooled. I'm still searching for the right solution for it
+* The oil biom is way to hot and needs to be cooled - I'm still searching for the right solution
 
 * The oil currently processed is not reneable. Oil wells are build, but I have no idea if there is enough oil at the end
 

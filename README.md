@@ -2,11 +2,45 @@
 
 Euphoria 66 is my take on a no-limits, sustainable, fully automated, efficient, but still dupe pleasing colony in [Oxygen Not Included](https://www.klei.com/games/oxygen-not-included). I created it to make up for all the horrible (or hilarious) ways I killed the dupes in all my previous games.
 
-![image](https://github.com/texhex/Euphoria66/raw/master/img/euphoria66.png)
+![Logo](https://github.com/texhex/Euphoria66/raw/master/img/euphoria66.png)
 
 No-limits means I used debug mode to spawn geysers and Wheezeworts like there is no tomorrow. Also, most buildings are insta-build because I have no patience.
 
-If you want to skip all description here, jump to section [installation](#installation)
+If you want to skip all description here, jump to section [installation](#installation).
+
+---
+
+## Welcome
+
+Are you 30 Kg of Genetic Ooze ready to be printed? How about you visit us at Euphoria; you will surely enjoy your stay on our 384x672 asteroid our 66 inhabitants call home! *
+
+*Restrictions: Narcoleptic, destructive or vomiter do not need to apply.*
+
+## Oxygen
+
+When joining our colony, you will never have to worry about the life-supporting blue gas, aka Oxygen. Our electrolyzer room is equipped with AETN cooling and a 5t water reserve if there is a temporary water shortage.
+
+![electrolizer](https://github.com/texhex/Euphoria66/raw/master/img/electrolizer.png)
+
+One room can supply the entire colony, but to be sure, we have the exact same room as a backup. We duplicated those two rooms again as a backup-for-the-backup. And added two more as a backup-for-the-backup-for-the-backup for ... reasons.
+
+## Food
+
+Every day, our dedicated team of 8 cooks will use our two kitchens, with a total of four gas ranges and two electric grills, to make the best food for you to enjoy.
+
+![cooking](https://github.com/texhex/Euphoria66/raw/master/img/cooking.png)
+
+We serve Pepper Bread, Stuffed Berry, and Barbeque, so there is something for everyone. Of course, you will find table salt on your mess table always.
+
+![food store room](https://github.com/texhex/Euphoria66/raw/master/img/foodstoreroom.png)
+
+As all your friends are on the same schedule as you, you can have pleasant chitchat with them. Or they appreciate just how effective you can gnaw on your food.
+
+![eating](https://github.com/texhex/Euphoria66/raw/master/img/eating.png)
+
+The meat for our barbeque comes from our broad range of staples (Hatches, Dreckos, Slicksters, and Shove Voles), cared for by our 25 ranchers. The plants are all organic and germ-free, harvested by 26 farmers.
+
+---
 
 
 ## Mods used

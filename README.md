@@ -14,7 +14,7 @@ If you want to skip right to the save file, jump to section [installation](#inst
 
 Are you 30 Kg of Genetic Ooze ready to be printed? How about you visit us at Euphoria; you will surely enjoy your stay on our 384x672 asteroid our 66 inhabitants call home! *
 
-![overview](https://github.com/texhex/Euphoria66/raw/master/img/overview.png)
+![overview](https://github.com/texhex/Euphoria66/raw/master/img/overview2.png)
 
 *Restrictions: Narcoleptic, destructive or vomiter do not need to apply.*
 
@@ -22,7 +22,7 @@ Are you 30 Kg of Genetic Ooze ready to be printed? How about you visit us at Eup
 
 When joining our colony, you will never have to worry about the life-supporting blue gas, aka Oxygen. Our electrolyzer room is equipped with AETN cooling and a 5t water reserve if there is a temporary water shortage.
 
-![electrolizer](https://github.com/texhex/Euphoria66/raw/master/img/electrolizer.png)
+![electrolizer](https://github.com/texhex/Euphoria66/raw/master/img/electrolizer2.png)
 
 One room can supply the entire colony, but to be sure, we have the exact same room as a backup. We duplicated those two rooms again as a backup-for-the-backup. And added two more as a backup-for-the-backup-for-the-backup for ... reasons.
 
@@ -46,7 +46,7 @@ The meat for our barbeque comes from our broad range of staples (Hatches, Drecko
 
 ## Healthcare
 
-Our health care system will make sure you are getting healthy again in no time. Twenty-two triage cots, twenty sick bays, and ten disease clinics with a team of twelve doctors trained in advanced medical care are ready to help you.
+Our health care system will make sure you are getting healthy again in no time. 24 triage cots, 18 sick bays, and 10 disease clinics with a team of twelve doctors trained in advanced medical care are ready to help you.
 
 ![health](https://github.com/texhex/Euphoria66/raw/master/img/health.png)
 
@@ -58,7 +58,7 @@ We have a rigorous germ-bashing policy at Euphoria 66: every single one of our 3
 
 The kitchen, food storeroom, and all main entrances are guarded by hand sanitizer. And any ore brought in needs to pass 12 ore scrubbers to make sure no germ makes into our colony.
 
-![ore scrub](https://github.com/texhex/Euphoria66/raw/master/img/orescrub.png)
+![ore scrub](https://github.com/texhex/Euphoria66/raw/master/img/orescrubber2.png)
 
 For outside activity, we have one atmo suit for each inhabitant ready to protect from the harsh environment. Except you are Frankie and decide to pass the atmo suite checkpoint without one. Don't be like Frankie.
 
@@ -78,7 +78,7 @@ If the solar panels can't produce any power, we utilize natural gas generators, 
 
 ## Dupe Dojo
 
-When there are no errands for you to do, you can use our 42 manual generators within our dupe dojo. Not only can you enjoy the gorgeous decor and have your tootsies tickled while using it, but it will also increase your athletics and machinery skills.
+When there are no errands for you to do, you can use our 48 manual generators within our dupe dojo. Not only can you enjoy the gorgeous decor and have your tootsies tickled while using it, but it will also increase your athletics and machinery skills.
 
 ![dupe dojo](https://github.com/texhex/Euphoria66/raw/master/img/dupedojo.png)
 
@@ -88,9 +88,9 @@ After 33 seconds, you will be gently slammed on the ground to take care of any e
 
 We all know it, stress is bad - so we have done everything to prevent it. All areas, even the hallways, are equipped with picture masterpieces and genius sculptures to make your stay a pleasure.
 
-But in case you need them, we also offer 24 massage tables. Just to be safe, not because you will need them - ever.
+But in case you need them, we also offer 32 massage tables. Just to be safe, not because you will need them - ever.
 
-Our main debris storage area, near the core of the asteroid, is designed in a way that you can safely access any needed material from above, without the need to pass all those ugly debris piles.
+Our main debris storage area, near the core of the asteroid, is designed so you can easily access any needed material from above, without the need to pass all those ugly debris piles.
 
 ![debris pile](https://github.com/texhex/Euphoria66/raw/master/img/debrispile.png)
 
@@ -98,27 +98,36 @@ Our main debris storage area, near the core of the asteroid, is designed in a wa
 
 Our five shift break policy, together with our vast transit tube network (within the base and outside), will ensure that you back at base in no time to enjoy your break.
 
-Do you like sparkling soda? Who does not, so we installed 66 soda fountains.
+We installed 66 soda fountains to allow everybody to enjoy a refreshing sparking spoda at the end of the cycle.
 
 ![soda fountain](https://github.com/texhex/Euphoria66/raw/master/img/sodafountain.png)
 
-Feel more like dancing, or are you into games? We also have eight jukebot, and two arcades for you to enjoy. Finally, eight beach chairs allow you to fully relax, but because of [technical](https://forums.kleientertainment.com/klei-bug-tracker/oni/beach-chair-preventing-sleep-r23276/) [issues](https://forums.kleientertainment.com/klei-bug-tracker/oni/dupes-dont-go-to-sleep-and-sit-in-beach-chair-all-night-instead-r22972/) we were forced to close them for now.
+If you are more into coffein, we have you covered, too: 14 Espresso Machines are waiting for you. Feel like dancing, or are you into games? Eight jukebot, and 6 arcades await!
 
-![beach chair](https://github.com/texhex/Euphoria66/raw/master/img/beachchair.png)
+Finally, if you like high-powered wind through your hair there are four wind tunnels that allow you just that. 
+
+![wind tunnel](https://github.com/texhex/Euphoria66/raw/master/img/windtunnel2.png)
 
 Of course, we have private bedrooms, all equipped with comfy beds, so that you can start your next cycle fully rested.
 
 ![sleeping](https://github.com/texhex/Euphoria66/raw/master/img/sleeping.png)
 
----
+## Changes in v22+
 
-## Open topics
-
-* The colony has access to both domestic and wild Sleet Wheat and this needs to be balanced
-
-* The oil biom is way to hot and needs to be cooled - I'm still searching for the right solution
-
-* The oil currently processed is not reneable. Oil wells are build, but I have no idea if there is enough oil at the end
+* Beach Chairs replaced with Wind Tunnels (as the Beach Chair bugs is still unfixed)
+* Sage Hatch and Hatch now feed on barbeque automatically
+* Cooper, Iron and Gold Volcano added
+* Clay Kitchen added
+* Oil Biom fully explored and automated
+* Oil Boiler changes so the leftovers are cooled and added to infinite storage
+* New materials added to infinite storage and combined some (Cooper/Gold Amalgum for example)
+* CO² storage (used for cooling) in space optimized
+* Added Espresso machines and more arcades
+* Reactivated regolith cooling (based on the schematics by Tony Advanced) and use it for the central water sives
+* Fully explored and utilized the Sleet Wheat cavern
+* Limited Ore Scrubber (Base Entrance) to 8, but therefore added a transit tube exit directly before the air lock. This should save some seconds per Dupe and cycle
+* Invited Rocket Man to the colony - he is always away with his rocket Artemis and sings "Don't Let the Sun Go Down on Me"
+* Added 6 more dupe wheels in the Dupe Dojo. Because of other optimizations resulting in the message "Idle (3)"
 
 ## Mods used
 
@@ -130,15 +139,24 @@ The following mods are required to run this colony:
 
 * [Wounded Go To Med Bed](https://steamcommunity.com/sharedfiles/filedetails/?id=1822160024) (To ensure dupes will not run along with wounds)
 
+* [Advanced Generators 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2019457228) (Thermoelectric Generator is used in small areas for cooling)
+
+* [Self-sealing Airlocks](https://steamcommunity.com/sharedfiles/filedetails/?id=1735550356) (I got bored designing the "best" air lock)
+
+* [Thermo Sensor Tile](https://steamcommunity.com/sharedfiles/filedetails/?id=1974008313) (Planed for the Oil Boiler)
+
 The following are QoL mods I also used, but they are not required:
 
 * [Pliers](https://steamcommunity.com/sharedfiles/filedetails/?id=1848884654)
 * [Resculpt](https://steamcommunity.com/sharedfiles/filedetails/?id=1918000273)
 * [Blueprints](https://steamcommunity.com/sharedfiles/filedetails/?id=1814341183)
 * [Sweep By Type](https://steamcommunity.com/sharedfiles/filedetails/?id=1863428350)
+* [Efficient Supply](https://steamcommunity.com/sharedfiles/filedetails/?id=1874600082)
+* [Fixed Camera Pan](https://steamcommunity.com/sharedfiles/filedetails/?id=1845747605)
+* [No 'Long Commutes'](https://steamcommunity.com/sharedfiles/filedetails/?id=1725950119)
 * [Lightning fast Menus](https://steamcommunity.com/sharedfiles/filedetails/?id=1852077143)
+* [Bigger Building Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=1703611962)
 * [Deselect New Materials](https://steamcommunity.com/sharedfiles/filedetails/?id=1863598374)
-* [Enable All Mods Button](https://steamcommunity.com/sharedfiles/filedetails/?id=1855960639)
 * [Bigger Camera Zoom Out](https://steamcommunity.com/sharedfiles/filedetails/?id=1717463209)
 * [Critical Notification Pauser](https://steamcommunity.com/sharedfiles/filedetails/?id=1708809748)
 * [Set Default Deconstruct Layer](https://steamcommunity.com/sharedfiles/filedetails/?id=1863180631)
@@ -161,9 +179,9 @@ The following mods are also not required, but will make your life even more easi
 * Copy the `*.SAV` file to this folder
 * Start the game and load the colony "Euphoria 66"
 
-NOTE #1: Loading the save will take at about 12-13 minutes where only the text LOADING.. is displayed. After that, ONI will show a black and white screen of the colony and require some more minutes to fully intialize
+NOTE #1: Loading the save will take at about 12-13 minutes where only the text LOADING... is displayed. After that, ONI will show a black and white screen of the colony and require some more minutes to fully intialize
 
-NOTE #2: This save game will require about **20 GB of memory**. So better close all those tabs in Chrome before.
+NOTE #2: This save game will require about **18 GB of memory**. So better close all those tabs in Chrome before.
 
 ## Contributions
 
